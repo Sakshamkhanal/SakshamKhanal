@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Saksham Khanal</h1>
 <h3 align="center">I am a python developer from Nepal</h3>
 
+- 🔭 I’m currently working on **ISS tracking**
+
+- 🌱 I’m currently learning **Rust**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **saksham.khanal01@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/saksham-khanal-0a5754256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-khanal-0a5754256" height="30" width="40" /></a>
+<a href="https://medium.com/@saksham.khanal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saksham.khanal01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
