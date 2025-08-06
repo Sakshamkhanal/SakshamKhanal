@@ -40,6 +40,3 @@ Latest: *"How I Deployed My Hugo Portfolio Site Using GitHub Pages (The Easy Way
 - GitHub & LinkedIn links go here
 
 ---
-
-## ⚔️ Philosophy  
-I use stoic discipline and Jedi calm in my workflow—solving one challenge at a time, like a galactic peacekeeper wielding clean code. Let’s build something epic.  
