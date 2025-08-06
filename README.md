@@ -1,7 +1,7 @@
 # Hi, I’m **Saksham Khanal**  
 **Software Engineer · Zen Coder · Star Wars Fan**
 
-* _"May the Code be with you."_*
+* _"May the Code be with you."_
 
 ---
 
@@ -23,8 +23,6 @@ Driven by stoicism, tech, and a deep love for Star Wars. I build stuff that matt
 | Project | Stack | Highlights |
 |--------|-------|------------|
 | **ISS Tracking System** | Flask · Celery · Redis | Tracks ISS in real-time; refactoring into modular Flask blueprints :contentReference[oaicite:7]{index=7} |
-| **Koili TMS System** | Django REST Framework | Built core CRUD REST APIs :contentReference[oaicite:8]{index=8} |
-| **Odoo Lead Gen Form** | Odoo & FastAPI | Form collector feeding backend API :contentReference[oaicite:9]{index=9} |
 | **Digital Attendance System** | Computer Vision | Face recognition for attendance management :contentReference[oaicite:10]{index=10} |
 | **Library Management Backend** | Django REST Framework | AP‑driven system supporting basic operations :contentReference[oaicite:11]{index=11} |
 
