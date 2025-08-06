@@ -1,7 +1,7 @@
 # Hi, I’m **Saksham Khanal**  
 **Software Engineer · Zen Coder · Star Wars Fan**
 
-* _"May the Code be with you."_
+_"May the Code be with you."_
 
 ---
 
