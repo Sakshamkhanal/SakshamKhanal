@@ -22,9 +22,9 @@ Driven by stoicism, tech, and a deep love for Star Wars. I build stuff that matt
 ## 🔧 Projects  
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| **ISS Tracking System** | Flask · Celery · Redis | Tracks ISS in real-time; refactoring into modular Flask blueprints :contentReference[oaicite:7]{index=7} |
-| **Digital Attendance System** | Computer Vision | Face recognition for attendance management :contentReference[oaicite:10]{index=10} |
-| **Library Management Backend** | Django REST Framework | AP‑driven system supporting basic operations :contentReference[oaicite:11]{index=11} |
+| **ISS Tracking System** | Flask · Celery · Redis | Tracks ISS in real-time; refactoring into modular Flask blueprints  |
+| **Digital Attendance System** | Computer Vision | Face recognition for attendance management |
+| **Library Management Backend** | Django REST Framework | AP‑driven system supporting basic operations |
 
 ---
 
